@@ -1,0 +1,63 @@
+body{
+    background-image: url('./images/ambience/contact.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin:10px 10px;
+    font-family:cursive;
+}
+.col-lg-6{
+    color:white;
+ 
+ background-color: black;
+    font-weight:bold;
+    font-family:cursive;
+    font-size:20px;
+    padding:5px 5px;
+    margin:0px 0px;
+}
+
+.container-fluid{
+    margin:0px 0px;
+}
+h2{
+    text-align:left;
+    font-size:40px;
+    color:white;
+}
+h2:hover{
+    color:wheat;
+
+}
+#cs{
+    background-color:black;
+    opacity:0.75;
+    color:white;
+    border-radius:10px;
+    width:300px;
+    text-align: center;
+    padding:1px 10px;
+    margin-top:10px;
+
+}
+.container{
+    height:400px;
+    width:400px;
+    background-color:black;
+    opacity:0.2;
+    border-radius:10px;
+}
+
+
+.col-lg-6{
+    color:white;
+    padding:15px 15px;
+    border-radius:10px;
+}
+.col-lg-6:hover{
+color:wheat;
+}
+#j{
+    height:40px;
+    width:40px;
+}
